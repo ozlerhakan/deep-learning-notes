@@ -3,3 +3,5 @@
 I have collected some notes and snippets from the books I have read so far about Deep Learning
 
 link:deep-learning-with-python/[Deep Learning with Python]
+link:Machine\ Learning\ with\ TensorFlow/[Machine Learning with TensorFlow]
+link:Machine\ Learning\ with\ Python\ Cookbook/[Machine Learning with Python Cookbook]

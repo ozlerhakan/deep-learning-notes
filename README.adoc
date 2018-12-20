@@ -1,6 +1,6 @@
-== Deep Learning Notes
+= Deep Learning Notes
 
-I have collected some notes and snippets from the books I have read so far about Deep Learning
+I have collected some notes and snippets from the books I have read so far about Deep Learning and Machine Learning:
 
 link:deep-learning-with-python/[Deep Learning with Python]
 
@@ -10,3 +10,8 @@ link:Machine%20Learning%20with%20Python%20Cookbook/[Machine Learning with Python
 
 link:Tensorflow%20for%20Deep%20Learning/[TensorFlow for Deep Learning]
 
+link:Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20and%20TensorFlow/[Hands-On Machine Learning with Scikit-Learn and TensorFlow]
+
+link:Introduction%20to%20Machine%20Learning%20with%20Python/[Introduction to Machine Learning with Python]
+
+link:Python%20Data%20Science%20Handbook/[Python Data Science Handbook]
